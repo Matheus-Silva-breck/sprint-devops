@@ -10,12 +10,10 @@ Docker e Docker Compose instalados na máquina virtual.
 
 ## 🌩️ Passo 1: Provisionamento da Máquina Virtual
 1. Criação da VM: Configure uma máquina virtual Linux (Ubuntu 20.04 LTS recomendado).
-2. 
-3. Acesso à VM:
+2. Acesso à VM:
 ssh usuario@ip-da-vm
-
-4. Configuração Inicial:
-sudo apt update && sudo apt upgrade -y
+3. Configuração Inicial:
+sudo apt update && sudo apt upgrade -y 
 
 ## 🐳 Passo 2: Instalação do Docker e Docker Compose
 1.Instalar o Docker:
